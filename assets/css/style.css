@@ -1,0 +1,89 @@
+.bbbb {
+    border: 1px solid blue;
+}
+
+.rrrr {
+    border: 1px solid red;
+}
+
+.gggg {
+    border: 1px solid green;
+}
+
+* { margin: 0px;
+    font-family:'Cabin', sans-serif;
+
+}
+
+
+.lobsterfont {
+    font-family:  'Lobster', sans-serif;
+
+}
+
+.bg_gris_oscuro {
+    border: 1px solid #373A3C;
+    background: #373A3C !important;
+}
+
+.bg_gris_claro {
+    border: 1px solid #DDDDDD;
+    background: #DDDDDD !important;
+}
+
+.text_gris_oscuro {
+    color: #373A3C;
+}
+
+.text_gris_claro {
+    color: #DDDDDD;
+    margin-bottom: 0px;
+}
+
+.ftsz_1 {
+    font-size: 1.05rem;
+}
+
+.ftsz_2 {
+    font-size: 0.75rem;
+}
+
+.bordeboton {
+    border: 1px solid #DDDDDD !important;
+}
+
+.texto_en_receta {
+    letter-spacing: 0.48pt;
+    line-height: 30pt;
+}
+
+/*
+.borde_gris {
+    border-top: 1px solid #DDDDDD;
+}
+
+.text_success {
+    color: #28A745;
+    font-weight: 500;
+}
+
+.text_white {
+    color: #ffffff;
+    font-weight: 500; 
+    margin: 0px;
+}
+
+.font_sx_1 {
+    font-size: 1.04rem;
+}
+
+.font_sx_2 {
+    font-size: 0.85rem;
+}
+
+.font_sx_3 {
+    font-size: 0.6rem;
+}
+
+
+*/
