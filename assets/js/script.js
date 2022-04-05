@@ -9,19 +9,19 @@ $(function(){
         alert("El correo fue enviado correctamente...");
     })
 
+    
     $("h6").dblclick(function(){
         $("h6").removeClass("txt_rojo");
-        $:not(this).addClass("txt_rojo");
+        $(this).addClass("txt_rojo");
     })
 
-    $(".card-title").click(function(){
 
+    $(".card-title").click(function(){
         $(".card").toggle();
         $(this).parents(".card").toggle();
-
+        //
         $(".card-text").toggle();
         $(".card-img-top").toggle();
-
     })
 
 
