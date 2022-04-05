@@ -40,6 +40,10 @@
     margin-bottom: 0px;
 }
 
+.txt_rojo {
+    color: red;
+}
+
 .ftsz_1 {
     font-size: 1.05rem;
 }
@@ -57,6 +61,9 @@
     line-height: 30pt;
 }
 
+.carousel-indicators button {
+    filter: invert(100%);
+}
 /*
 .borde_gris {
     border-top: 1px solid #DDDDDD;
